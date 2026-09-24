@@ -1,0 +1,23 @@
+{
+  "name": "exerc-cio-crud",
+  "version": "1.0.0",
+  "description": "Exercício CRUD",
+  "homepage": "https://github.com/joaoaleite22-arch/Exerc-cio-CRUD#readme",
+  "bugs": {
+    "url": "https://github.com/joaoaleite22-arch/Exerc-cio-CRUD/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoaleite22-arch/Exerc-cio-CRUD.git"
+  },
+  "license": "ISC",
+  "author": "João Augusto",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
